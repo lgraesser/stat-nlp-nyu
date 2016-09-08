@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Laura
+   last: Graesser
+email: lhg256@nyu.edu
+leaderboard: LauraG
